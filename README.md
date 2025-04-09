@@ -60,5 +60,5 @@ Each model and notebook is demonstrated in a 1-minute walkthrough with:
 - Evaluation & metrics
 - Output predictions / visualizations
 
-🖇️ [Watch the full demo here](https://www.youtube.com)
+🖇️ [Watch the full demo here]([https://www.youtube.com](https://www.youtube.com/watch?v=SxxhdlU-2a4))
 
